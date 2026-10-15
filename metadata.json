@@ -1,0 +1,6 @@
+{
+  "name": "FeeTrack",
+  "description": "Admin-focused school fees management dashboard with tablet-first responsive layout, student fee profiles, payment recording, fee structure setup, transaction history, and financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
